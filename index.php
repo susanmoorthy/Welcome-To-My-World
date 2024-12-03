@@ -9,7 +9,7 @@
   </head>
   <body>
     <div>
-      <p>This is my home page. Susan</p>
+      <p>This is my web page. Susan</p>
     </div>
   </body>
 </html>
